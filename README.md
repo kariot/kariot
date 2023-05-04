@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kariot&label=Profile%20views&color=0e75b6&style=flat" alt="kariot" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **Jetpack Compose** and learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [kariot.github.io](kariot.github.io)
 
